@@ -1,0 +1,54 @@
+body {
+    font-family: roboto;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+
+.top-head {
+    display: flex;
+    margin: 48px 12px;
+    justify-content: space-between;
+}
+
+.bottom-head {
+    display: flex;
+    margin: 48px 36px;
+    justify-content: space-between;
+}
+
+.intro {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.logo {
+    font-size: 24px;
+    color:#F9FAF8;
+}
+
+ul {
+    display: flex;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.welcome {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+
+.welcome-note {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+
+
+
+
